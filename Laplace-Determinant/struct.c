@@ -1,3 +1,7 @@
+/**SIMPLE SCRIPT USED TO CALCULATE THE DETERMINANT OF A MATRIX WITH THE LAPLACE METHOD.
+Given that the laplace method has a cc of O(N!) it's not practically used, and this is more
+of an exercise for recursion algorithm. **/
+
 #include <stdio.h>
 #include <malloc.h>
 #include <time.h>
